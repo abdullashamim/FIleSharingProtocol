@@ -1,0 +1,20 @@
+FileHash --verify hak.c
+FileHash --verify kac.c
+FileHash --verify newk.c
+FileHash --verify new.c
+FileHash --verify hello.c
+FileDownload hello.c
+FileDownload hello.c
+FileDownload hello.c
+FileDownload hello.c
+FileDownload hello.c
+FileDownload hello.c
+FileDownload hello.c
+FileDownload hello.c
+FileHash --verify new.c
+FileDownload hello.c
+FileHash --verify hello.c
+FileDownload hello.c
+FileHash --verify hello.c
+FileHash --checkall
+FileHash --checkall
